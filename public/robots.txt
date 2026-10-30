@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://vimal-saini-portfolio.vercel.app/sitemap.xml
